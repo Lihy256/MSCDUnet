@@ -1,4 +1,5 @@
-# MSCDUnet
+# MSCDUnet: https://ieeexplore.ieee.org/document/9791854
+
 We labeled the first change detection datasets containing VHR, multispectral (Sentinel-2) and SAR (Sentinel-1) all.
 
 The download link is here:
@@ -24,3 +25,6 @@ OPT has 14 bands in all. The first 7 bands are B2,B3,B4,B8,B8A,B11,B12 of time 1
 
 
 **We will soon open our code and datasets with selected features
+
+Paper citing: H. Li, F. Zhu, X. Zheng, M. Liu and G. Chen, "MSCDUNet: A Deep Learning Framework for Built-Up Area Change Detection Integrating Multispectral, SAR, and VHR Data," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 5163-5176, 2022, doi: 10.1109/JSTARS.2022.3181155. 
+
