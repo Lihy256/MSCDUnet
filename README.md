@@ -17,5 +17,7 @@ MSOSCD:
 
 
 The structure of SAR and OPT our data are as follows:
+
 SAR has 8 bands in all. The first 4 bands are VV, VH, VVVH, VV/VH of time 1, and the later 4 bands are VV, VH, VVVH, VV/VH of time 1.
+
 OPT has 14 bands in all. The first 7 bands are B2,B3,B4,B8,B8A,B11,B12 of time 1, and the later 7 bands are B2,B3,B4,B8,B8A,B11,B12 of time 2.
