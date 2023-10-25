@@ -4,7 +4,7 @@ We labeled the first change detection datasets containing VHR, multispectral (Se
 
 The download link is here:
 
-Baiudulink：https://pan.baidu.com/s/1-f6U8g0i0x8Tmw00Cvguzw 
+Baidulink：https://pan.baidu.com/s/1-f6U8g0i0x8Tmw00Cvguzw 
 code：xls8 
 
 Google dirve link: https://drive.google.com/file/d/1iFp3jMFYwbk0iP4rN3hCIUwmnNxmDewz/view?usp=drive_link
