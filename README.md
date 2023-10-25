@@ -3,9 +3,12 @@
 We labeled the first change detection datasets containing VHR, multispectral (Sentinel-2) and SAR (Sentinel-1) all.
 
 The download link is here:
-link：https://pan.baidu.com/s/1-f6U8g0i0x8Tmw00Cvguzw 
+
+Baiudulink：https://pan.baidu.com/s/1-f6U8g0i0x8Tmw00Cvguzw 
 
 code：xls8 
+
+Google dirve link: https://drive.google.com/file/d/1iFp3jMFYwbk0iP4rN3hCIUwmnNxmDewz/view?usp=drive_link
 
 MSBC:
 
